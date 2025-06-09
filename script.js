@@ -5,7 +5,6 @@ document
     event.preventDefault(); // Prevent default link behavior
     document.getElementById("mainApp").scrollIntoView({ behavior: "smooth" });
   });
-
 // AI Diagnosis - Handling Symptoms Form
 document
   .getElementById("diagnosisForm")
